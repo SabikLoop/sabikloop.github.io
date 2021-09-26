@@ -29,6 +29,11 @@
     display: inline-block;
     margin: 0 15px;
 }
+.sample {
+	font-family: Helvetica; 
+	color: blue; 
+}
+
 .navbar ul li a{
   text-decoration: none;
   color: #0000FF;
