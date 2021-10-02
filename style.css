@@ -39,3 +39,10 @@
   color: #0000FF;
   font-size: 15px;
 }
+
+.audio-container {
+	display: inline-block; 
+        justify-content: center; 
+	align-items: center; 
+}
+
